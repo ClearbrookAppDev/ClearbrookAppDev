@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @ClearbrookAppDev
-- 👀 I’m interested in ... providing apps for our non-profit oragnization.
-- 🌱 I’m currently learning ... how to use the most of the Microsoft Power Platform
+
+This GitHub is our teams collection of repositories for our various dev projects. Here you will find documentaiton, changelogs, and source codes for our in-house applications.
+
+Most of our applications are built in the Microsoft Power Platform and leverage Power Apps and Power Automate.
+
+
+Our main development lead is Carlo Aseron, Software and Security Coordinator at Clearbrook. [caseron@clearbrook.org]
 
 
 <!---
