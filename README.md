@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClearbrookAppDev
 
-This GitHub is our teams collection of repositories for our various dev projects. Here you will find documentaiton, changelogs, and source codes for our in-house applications.
+This GitHub is our IT team's collection of repositories for our various dev projects. Here you will find documentaiton, changelogs, and source codes for our in-house applications.
 
 Most of our applications are built in the Microsoft Power Platform and leverage Power Apps and Power Automate.
 
